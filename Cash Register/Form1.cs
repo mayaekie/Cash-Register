@@ -115,7 +115,7 @@ namespace Cash_Register
             recieptOutput.Text += $"\nChange:         {change.ToString("C")}";
             Refresh();
             Thread.Sleep(1500);
-            recieptOutput.Text += $"\n\nThank You!";
+            recieptOutput.Text += $"\n\nThank You!";  //sadfghjk
         }
     }
 }
